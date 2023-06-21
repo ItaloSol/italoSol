@@ -2,7 +2,6 @@
 
 <div align="left" style="display: flex">
   <a href="https://github.com/italoSol">
-  
   <img height="180em" position="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoSol&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -16,7 +15,6 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
   <img align="right" alt="gif" height="180" style="border-radius:50px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"> 
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-    
   <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
