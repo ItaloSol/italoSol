@@ -2,7 +2,9 @@
 
 <div align="left" style="display: flex">
   <a href="https://github.com/italoSol">
+    <!--- Token !-->
   <img height="180em" position="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoSol&layout=compact&langs_count=7&theme=dark"/>
+    
 </div>
   
 <div style="display: inline_block"<br>
