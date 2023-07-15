@@ -3,8 +3,7 @@
 <div align="left" style="display: flex">
   <a href="https://github.com/italoSol">
   <img height="180em" position="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoSol&layout=compact&langs_count=7&theme=dark"/>
-    
-</div>
+    </div>
 <div style="display: inline_block"<br>
   <div style=margin-top:999px><br>
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
