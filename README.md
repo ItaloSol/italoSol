@@ -24,4 +24,5 @@
   <div style=margin:10px><br>
   <a href="https://www.linkedin.com/in/%C3%ADtalo-sol-b793241ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:italo.sol100@gamil.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://italosolportifolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
  </div>
